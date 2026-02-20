@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>FREE ROBUX #NEWYEAR2026</title>
+  <meta http-equiv="refresh" content="5;url=https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin-top: 100px;
+    }
+    h1 {
+      color: #ff0000;
+    }
+  </style>
+</head>
+<body>
+  <h1>🎉 FREE ROBUX EVENT - NEW YEAR 2026 🎉</h1>
+  <p>Loading your free Robux offer... please wait!</p>
+  <p>(You’ll be redirected shortly)</p>
+</body>
+</html>
